@@ -65,5 +65,8 @@ Copy code
 npm start
 Visit the application: Open your browser and go to http://localhost:3000 for the frontend.
 
+Live Link : frontend :https://appointment-booking-3.onrender.com
+Admin pannell :https://appointment-booking-8.onrender.com
+
 Contributing
 Feel free to open issues and submit pull requests. Contributions are welcome!
